@@ -8,7 +8,7 @@
 copy AradShortcutRemover.dll C:\Nexon\ARAD\version.dll
 ```
 
-3. Stat Arad normaly
+3. Start Arad as usual
 
 ### Build Requirements
 - Visual Studio (C++17 supports required)
