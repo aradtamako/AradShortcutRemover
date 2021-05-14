@@ -12,4 +12,3 @@ copy AradShortcutRemover.dll C:\Nexon\ARAD\version.dll
 
 ### Build Requirements
 - Visual Studio (C++17 supports required)
-- 
